@@ -1,5 +1,5 @@
  <h1 align="center">Hello! 👋 I'm  Dulani Hemachandra</h1>
- <h3 align="center">Frontend Developer & UI/UX Designer | ICT Undergraduate</h3>
+ <h3 align="center">Frontend Developer & Software Quality Assurance | ICT Undergraduate</h3>
 
 
  <br>
@@ -10,10 +10,10 @@ I'm an undergraduate at Uva Wellassa University, specializing in Software Techno
 </p>
 
 ## Current Focus
-- Frontend Development (React, JavaScript)
-- UI/UX Design Principles
+- Frontend Development 
+- Software Quality Assurance
 
-## Tech Stack
+## Technologies 
 - React
 - Figma
 - JavaScript
